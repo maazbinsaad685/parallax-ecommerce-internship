@@ -1,0 +1,872 @@
+[
+  {
+    "id": 11,
+    "title": "Annibale Colombo Bed",
+    "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+    "price": 1899.99,
+    "category": "Home",
+    "brand": "Annibale Colombo",
+    "image": "/images/11.webp",
+    "rating": 4.77,
+    "stock": 88,
+    "variants": {
+      "model": ["Annibale Colombo Bed"]
+    }
+  },
+  {
+    "id": 78,
+    "title": "Apple MacBook Pro 14 Inch Space Grey",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+    "price": 1999.99,
+    "category": "Electronics",
+    "brand": "Apple",
+    "image": "/images/78.webp",
+    "rating": 3.65,
+    "stock": 24,
+    "variants": {
+      "model": ["Apple MacBook Pro 14 Inch Space Grey"],
+      "warranty": ["1 year"]
+    }
+  },
+  {
+    "id": 83,
+    "title": "Blue & Black Check Shirt",
+    "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+    "price": 29.99,
+    "category": "Fashion",
+    "brand": "Fashion Trends",
+    "image": "/images/83.webp",
+    "rating": 3.64,
+    "stock": 38,
+    "variants": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 88,
+    "title": "Nike Air Jordan 1 Red And Black",
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+    "price": 149.99,
+    "category": "Shoes",
+    "brand": "Nike",
+    "image": "/images/88.webp",
+    "rating": 4.77,
+    "stock": 7,
+    "variants": {
+      "size": ["38", "39", "40", "41", "42"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 93,
+    "title": "Brown Leather Belt Watch",
+    "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+    "price": 89.99,
+    "category": "Watches",
+    "brand": "Fashion Timepieces",
+    "image": "/images/93.webp",
+    "rating": 4.19,
+    "stock": 32,
+    "variants": {
+      "model": ["Brown Leather Belt Watch"]
+    }
+  },
+  {
+    "id": 154,
+    "title": "Black Sun Glasses",
+    "description": "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
+    "price": 29.99,
+    "category": "Accessories",
+    "brand": "Fashion Shades",
+    "image": "/images/154.webp",
+    "rating": 4.41,
+    "stock": 60,
+    "variants": {
+      "model": ["Black Sun Glasses"]
+    }
+  },
+  {
+    "id": 137,
+    "title": "American Football",
+    "description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+    "price": 19.99,
+    "category": "Fitness",
+    "brand": "Forma Essentials",
+    "image": "/images/137.webp",
+    "rating": 4.91,
+    "stock": 53,
+    "variants": {
+      "model": ["American Football"]
+    }
+  },
+  {
+    "id": 12,
+    "title": "Annibale Colombo Sofa",
+    "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+    "price": 2499.99,
+    "category": "Home",
+    "brand": "Annibale Colombo",
+    "image": "/images/12.webp",
+    "rating": 3.92,
+    "stock": 60,
+    "variants": {
+      "model": ["Annibale Colombo Sofa"]
+    }
+  },
+  {
+    "id": 13,
+    "title": "Bedside Table African Cherry",
+    "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+    "price": 299.99,
+    "category": "Home",
+    "brand": "Furniture Co.",
+    "image": "/images/13.webp",
+    "rating": 2.87,
+    "stock": 3,
+    "variants": {
+      "model": ["Bedside Table African Cherry"]
+    }
+  },
+  {
+    "id": 14,
+    "title": "Knoll Saarinen Executive Conference Chair",
+    "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+    "price": 499.99,
+    "category": "Home",
+    "brand": "Knoll",
+    "image": "/images/14.webp",
+    "rating": 4.88,
+    "stock": 26,
+    "variants": {
+      "model": ["Knoll Saarinen Executive Conference Chair"]
+    }
+  },
+  {
+    "id": 15,
+    "title": "Wooden Bathroom Sink With Mirror",
+    "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+    "price": 799.99,
+    "category": "Home",
+    "brand": "Bath Trends",
+    "image": "/images/15.webp",
+    "rating": 3.59,
+    "stock": 7,
+    "variants": {
+      "model": ["Wooden Bathroom Sink With Mirror"]
+    }
+  },
+  {
+    "id": 43,
+    "title": "Decoration Swing",
+    "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+    "price": 59.99,
+    "category": "Home",
+    "brand": "Forma Essentials",
+    "image": "/images/43.webp",
+    "rating": 3.16,
+    "stock": 47,
+    "variants": {
+      "model": ["Decoration Swing"]
+    }
+  },
+  {
+    "id": 44,
+    "title": "Family Tree Photo Frame",
+    "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+    "price": 29.99,
+    "category": "Home",
+    "brand": "Forma Essentials",
+    "image": "/images/44.webp",
+    "rating": 4.53,
+    "stock": 77,
+    "variants": {
+      "model": ["Family Tree Photo Frame"]
+    }
+  },
+  {
+    "id": 45,
+    "title": "House Showpiece Plant",
+    "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+    "price": 39.99,
+    "category": "Home",
+    "brand": "Forma Essentials",
+    "image": "/images/45.webp",
+    "rating": 4.67,
+    "stock": 0,
+    "variants": {
+      "model": ["House Showpiece Plant"]
+    }
+  },
+  {
+    "id": 46,
+    "title": "Plant Pot",
+    "description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+    "price": 14.99,
+    "category": "Home",
+    "brand": "Forma Essentials",
+    "image": "/images/46.webp",
+    "rating": 3.01,
+    "stock": 59,
+    "variants": {
+      "model": ["Plant Pot"]
+    }
+  },
+  {
+    "id": 47,
+    "title": "Table Lamp",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+    "price": 49.99,
+    "category": "Home",
+    "brand": "Forma Essentials",
+    "image": "/images/47.webp",
+    "rating": 3.55,
+    "stock": 9,
+    "variants": {
+      "model": ["Table Lamp"]
+    }
+  },
+  {
+    "id": 79,
+    "title": "Asus Zenbook Pro Dual Screen Laptop",
+    "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+    "price": 1799.99,
+    "category": "Electronics",
+    "brand": "Asus",
+    "image": "/images/79.webp",
+    "rating": 3.95,
+    "stock": 45,
+    "variants": {
+      "model": ["Asus Zenbook Pro Dual Screen Laptop"],
+      "warranty": ["1 year"]
+    }
+  },
+  {
+    "id": 80,
+    "title": "Huawei Matebook X Pro",
+    "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+    "price": 1399.99,
+    "category": "Electronics",
+    "brand": "Huawei",
+    "image": "/images/80.webp",
+    "rating": 4.98,
+    "stock": 75,
+    "variants": {
+      "model": ["Huawei Matebook X Pro"],
+      "warranty": ["1 year"]
+    }
+  },
+  {
+    "id": 81,
+    "title": "Lenovo Yoga 920",
+    "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+    "price": 1099.99,
+    "category": "Electronics",
+    "brand": "Lenovo",
+    "image": "/images/81.webp",
+    "rating": 2.86,
+    "stock": 40,
+    "variants": {
+      "model": ["Lenovo Yoga 920"],
+      "warranty": ["1 year"]
+    }
+  },
+  {
+    "id": 82,
+    "title": "New DELL XPS 13 9300 Laptop",
+    "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+    "price": 1499.99,
+    "category": "Electronics",
+    "brand": "Dell",
+    "image": "/images/82.webp",
+    "rating": 2.67,
+    "stock": 74,
+    "variants": {
+      "model": ["New DELL XPS 13 9300 Laptop"],
+      "warranty": ["1 year"]
+    }
+  },
+  {
+    "id": 99,
+    "title": "Amazon Echo Plus",
+    "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+    "price": 99.99,
+    "category": "Electronics",
+    "brand": "Amazon",
+    "image": "/images/99.webp",
+    "rating": 4.99,
+    "stock": 61,
+    "variants": {
+      "model": ["Amazon Echo Plus"],
+      "warranty": ["1 year"]
+    }
+  },
+  {
+    "id": 100,
+    "title": "Apple Airpods",
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+    "price": 129.99,
+    "category": "Electronics",
+    "brand": "Apple",
+    "image": "/images/100.webp",
+    "rating": 4.15,
+    "stock": 67,
+    "variants": {
+      "model": ["Apple Airpods"],
+      "warranty": ["1 year"]
+    }
+  },
+  {
+    "id": 101,
+    "title": "Apple AirPods Max Silver",
+    "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+    "price": 549.99,
+    "category": "Electronics",
+    "brand": "Apple",
+    "image": "/images/101.webp",
+    "rating": 3.47,
+    "stock": 59,
+    "variants": {
+      "model": ["Apple AirPods Max Silver"],
+      "warranty": ["1 year"]
+    }
+  },
+  {
+    "id": 102,
+    "title": "Apple Airpower Wireless Charger",
+    "description": "The Apple AirPower Wireless Charger provides a convenient way to charge your compatible Apple devices wirelessly. Simply place your devices on the charging mat for effortless charging.",
+    "price": 79.99,
+    "category": "Electronics",
+    "brand": "Apple",
+    "image": "/images/102.webp",
+    "rating": 3.68,
+    "stock": 1,
+    "variants": {
+      "model": ["Apple Airpower Wireless Charger"],
+      "warranty": ["1 year"]
+    }
+  },
+  {
+    "id": 103,
+    "title": "Apple HomePod Mini Cosmic Grey",
+    "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+    "price": 99.99,
+    "category": "Electronics",
+    "brand": "Apple",
+    "image": "/images/103.webp",
+    "rating": 4.62,
+    "stock": 27,
+    "variants": {
+      "model": ["Apple HomePod Mini Cosmic Grey"],
+      "warranty": ["1 year"]
+    }
+  },
+  {
+    "id": 84,
+    "title": "Gigabyte Aorus Men Tshirt",
+    "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+    "price": 24.99,
+    "category": "Fashion",
+    "brand": "Gigabyte",
+    "image": "/images/84.webp",
+    "rating": 3.18,
+    "stock": 90,
+    "variants": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 85,
+    "title": "Man Plaid Shirt",
+    "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+    "price": 34.99,
+    "category": "Fashion",
+    "brand": "Classic Wear",
+    "image": "/images/85.webp",
+    "rating": 3.46,
+    "stock": 82,
+    "variants": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 86,
+    "title": "Man Short Sleeve Shirt",
+    "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+    "price": 19.99,
+    "category": "Fashion",
+    "brand": "Casual Comfort",
+    "image": "/images/86.webp",
+    "rating": 2.9,
+    "stock": 2,
+    "variants": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 87,
+    "title": "Men Check Shirt",
+    "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+    "price": 27.99,
+    "category": "Fashion",
+    "brand": "Urban Chic",
+    "image": "/images/87.webp",
+    "rating": 2.72,
+    "stock": 95,
+    "variants": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 162,
+    "title": "Blue Frock",
+    "description": "The Blue Frock is a charming and stylish dress for various occasions. With a vibrant blue color and a comfortable design, it adds a touch of elegance to your wardrobe.",
+    "price": 29.99,
+    "category": "Fashion",
+    "brand": "Forma Essentials",
+    "image": "/images/162.webp",
+    "rating": 4.17,
+    "stock": 52,
+    "variants": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 163,
+    "title": "Girl Summer Dress",
+    "description": "The Girl Summer Dress is a cute and breezy dress designed for warm weather. With playful patterns and lightweight fabric, it's perfect for keeping cool and stylish during the summer.",
+    "price": 19.99,
+    "category": "Fashion",
+    "brand": "Forma Essentials",
+    "image": "/images/163.webp",
+    "rating": 4.77,
+    "stock": 43,
+    "variants": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 164,
+    "title": "Gray Dress",
+    "description": "The Gray Dress is a versatile and chic option for various occasions. With a neutral gray color, it can be dressed up or down, making it a wardrobe staple for any fashion-forward individual.",
+    "price": 34.99,
+    "category": "Fashion",
+    "brand": "Forma Essentials",
+    "image": "/images/164.webp",
+    "rating": 2.72,
+    "stock": 55,
+    "variants": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 165,
+    "title": "Short Frock",
+    "description": "The Short Frock is a playful and trendy dress with a shorter length. Ideal for casual outings or special occasions, it combines style and comfort for a fashionable look.",
+    "price": 24.99,
+    "category": "Fashion",
+    "brand": "Forma Essentials",
+    "image": "/images/165.webp",
+    "rating": 3.23,
+    "stock": 22,
+    "variants": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 166,
+    "title": "Tartan Dress",
+    "description": "The Tartan Dress features a classic tartan pattern, bringing a timeless and sophisticated touch to your wardrobe. Perfect for fall and winter, it adds a hint of traditional charm.",
+    "price": 39.99,
+    "category": "Fashion",
+    "brand": "Forma Essentials",
+    "image": "/images/166.webp",
+    "rating": 4.05,
+    "stock": 73,
+    "variants": {
+      "size": ["S", "M", "L", "XL"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 89,
+    "title": "Nike Baseball Cleats",
+    "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+    "price": 79.99,
+    "category": "Shoes",
+    "brand": "Nike",
+    "image": "/images/89.webp",
+    "rating": 3.88,
+    "stock": 12,
+    "variants": {
+      "size": ["38", "39", "40", "41", "42"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 90,
+    "title": "Puma Future Rider Trainers",
+    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+    "price": 89.99,
+    "category": "Shoes",
+    "brand": "Puma",
+    "image": "/images/90.webp",
+    "rating": 4.9,
+    "stock": 90,
+    "variants": {
+      "size": ["38", "39", "40", "41", "42"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 91,
+    "title": "Sports Sneakers Off White & Red",
+    "description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+    "price": 119.99,
+    "category": "Shoes",
+    "brand": "Off White",
+    "image": "/images/91.webp",
+    "rating": 4.77,
+    "stock": 17,
+    "variants": {
+      "size": ["38", "39", "40", "41", "42"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 92,
+    "title": "Sports Sneakers Off White Red",
+    "description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+    "price": 109.99,
+    "category": "Shoes",
+    "brand": "Off White",
+    "image": "/images/92.webp",
+    "rating": 4.69,
+    "stock": 62,
+    "variants": {
+      "size": ["38", "39", "40", "41", "42"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 185,
+    "title": "Black & Brown Slipper",
+    "description": "The Black & Brown Slipper is a comfortable and stylish choice for casual wear. Featuring a blend of black and brown colors, it adds a touch of sophistication to your relaxation.",
+    "price": 19.99,
+    "category": "Shoes",
+    "brand": "Comfort Trends",
+    "image": "/images/185.webp",
+    "rating": 2.53,
+    "stock": 3,
+    "variants": {
+      "size": ["38", "39", "40", "41", "42"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 186,
+    "title": "Calvin Klein Heel Shoes",
+    "description": "Calvin Klein Heel Shoes are elegant and sophisticated, designed for formal occasions. With a classic design and high-quality materials, they complement your stylish ensemble.",
+    "price": 79.99,
+    "category": "Shoes",
+    "brand": "Calvin Klein",
+    "image": "/images/186.webp",
+    "rating": 4.92,
+    "stock": 93,
+    "variants": {
+      "size": ["38", "39", "40", "41", "42"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 187,
+    "title": "Golden Shoes Woman",
+    "description": "The Golden Shoes for Women are a glamorous choice for special occasions. Featuring a golden hue and stylish design, they add a touch of luxury to your outfit.",
+    "price": 49.99,
+    "category": "Shoes",
+    "brand": "Fashion Diva",
+    "image": "/images/187.webp",
+    "rating": 3.26,
+    "stock": 88,
+    "variants": {
+      "size": ["38", "39", "40", "41", "42"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 188,
+    "title": "Pampi Shoes",
+    "description": "Pampi Shoes offer a blend of comfort and style for everyday use. With a versatile design, they are suitable for various casual occasions, providing a trendy and relaxed look.",
+    "price": 29.99,
+    "category": "Shoes",
+    "brand": "Pampi",
+    "image": "/images/188.webp",
+    "rating": 3.05,
+    "stock": 49,
+    "variants": {
+      "size": ["38", "39", "40", "41", "42"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 189,
+    "title": "Red Shoes",
+    "description": "The Red Shoes make a bold statement with their vibrant red color. Whether for a party or a casual outing, these shoes add a pop of color and style to your wardrobe.",
+    "price": 34.99,
+    "category": "Shoes",
+    "brand": "Fashion Express",
+    "image": "/images/189.webp",
+    "rating": 3.25,
+    "stock": 7,
+    "variants": {
+      "size": ["38", "39", "40", "41", "42"],
+      "color": ["As pictured"]
+    }
+  },
+  {
+    "id": 94,
+    "title": "Longines Master Collection",
+    "description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+    "price": 1499.99,
+    "category": "Watches",
+    "brand": "Longines",
+    "image": "/images/94.webp",
+    "rating": 3.87,
+    "stock": 100,
+    "variants": {
+      "model": ["Longines Master Collection"]
+    }
+  },
+  {
+    "id": 95,
+    "title": "Rolex Cellini Date Black Dial",
+    "description": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+    "price": 8999.99,
+    "category": "Watches",
+    "brand": "Rolex",
+    "image": "/images/95.webp",
+    "rating": 4.97,
+    "stock": 40,
+    "variants": {
+      "model": ["Rolex Cellini Date Black Dial"]
+    }
+  },
+  {
+    "id": 96,
+    "title": "Rolex Cellini Moonphase",
+    "description": "The Rolex Cellini Moonphase is a masterpiece of horology, featuring a moon phase complication and exquisite design. It reflects Rolex's commitment to precision and elegance.",
+    "price": 12999.99,
+    "category": "Watches",
+    "brand": "Rolex",
+    "image": "/images/96.webp",
+    "rating": 2.58,
+    "stock": 36,
+    "variants": {
+      "model": ["Rolex Cellini Moonphase"]
+    }
+  },
+  {
+    "id": 97,
+    "title": "Rolex Datejust",
+    "description": "The Rolex Datejust is an iconic and versatile timepiece with a date window. Known for its timeless design and reliability, it's a symbol of Rolex's watchmaking excellence.",
+    "price": 10999.99,
+    "category": "Watches",
+    "brand": "Rolex",
+    "image": "/images/97.webp",
+    "rating": 3.66,
+    "stock": 86,
+    "variants": {
+      "model": ["Rolex Datejust"]
+    }
+  },
+  {
+    "id": 98,
+    "title": "Rolex Submariner Watch",
+    "description": "The Rolex Submariner is a legendary dive watch with a rich history. Known for its durability and water resistance, it's a symbol of adventure and exploration.",
+    "price": 13999.99,
+    "category": "Watches",
+    "brand": "Rolex",
+    "image": "/images/98.webp",
+    "rating": 2.69,
+    "stock": 55,
+    "variants": {
+      "model": ["Rolex Submariner Watch"]
+    }
+  },
+  {
+    "id": 155,
+    "title": "Classic Sun Glasses",
+    "description": "The Classic Sun Glasses offer a timeless design with a neutral frame and UV-protected lenses. These sunglasses are versatile and suitable for various occasions.",
+    "price": 24.99,
+    "category": "Accessories",
+    "brand": "Fashion Shades",
+    "image": "/images/155.webp",
+    "rating": 3.86,
+    "stock": 1,
+    "variants": {
+      "model": ["Classic Sun Glasses"]
+    }
+  },
+  {
+    "id": 156,
+    "title": "Green and Black Glasses",
+    "description": "The Green and Black Glasses feature a bold combination of green and black colors, adding a touch of vibrancy to your eyewear collection. They are both stylish and eye-catching.",
+    "price": 34.99,
+    "category": "Accessories",
+    "brand": "Fashion Shades",
+    "image": "/images/156.webp",
+    "rating": 4.55,
+    "stock": 24,
+    "variants": {
+      "model": ["Green and Black Glasses"]
+    }
+  },
+  {
+    "id": 157,
+    "title": "Party Glasses",
+    "description": "The Party Glasses are designed to add flair to your party outfit. With unique shapes or colorful frames, they're perfect for adding a playful touch to your look during celebrations.",
+    "price": 19.99,
+    "category": "Accessories",
+    "brand": "Fashion Fun",
+    "image": "/images/157.webp",
+    "rating": 2.79,
+    "stock": 86,
+    "variants": {
+      "model": ["Party Glasses"]
+    }
+  },
+  {
+    "id": 158,
+    "title": "Sunglasses",
+    "description": "The Sunglasses offer a classic and simple design with a focus on functionality. These sunglasses provide essential UV protection while maintaining a timeless look.",
+    "price": 22.99,
+    "category": "Accessories",
+    "brand": "Fashion Shades",
+    "image": "/images/158.webp",
+    "rating": 3.02,
+    "stock": 27,
+    "variants": {
+      "model": ["Sunglasses"]
+    }
+  },
+  {
+    "id": 172,
+    "title": "Blue Women's Handbag",
+    "description": "The Blue Women's Handbag is a stylish and spacious accessory for everyday use. With a vibrant blue color and multiple compartments, it combines fashion and functionality.",
+    "price": 49.99,
+    "category": "Accessories",
+    "brand": "Fashionista",
+    "image": "/images/172.webp",
+    "rating": 2.92,
+    "stock": 76,
+    "variants": {
+      "model": ["Blue Women's Handbag"]
+    }
+  },
+  {
+    "id": 173,
+    "title": "Heshe Women's Leather Bag",
+    "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory.",
+    "price": 129.99,
+    "category": "Accessories",
+    "brand": "Heshe",
+    "image": "/images/173.webp",
+    "rating": 4.92,
+    "stock": 99,
+    "variants": {
+      "model": ["Heshe Women's Leather Bag"]
+    }
+  },
+  {
+    "id": 174,
+    "title": "Prada Women Bag",
+    "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts.",
+    "price": 599.99,
+    "category": "Accessories",
+    "brand": "Prada",
+    "image": "/images/174.webp",
+    "rating": 2.71,
+    "stock": 75,
+    "variants": {
+      "model": ["Prada Women Bag"]
+    }
+  },
+  {
+    "id": 138,
+    "title": "Baseball Ball",
+    "description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+    "price": 8.99,
+    "category": "Fitness",
+    "brand": "Forma Essentials",
+    "image": "/images/138.webp",
+    "rating": 2.57,
+    "stock": 100,
+    "variants": {
+      "model": ["Baseball Ball"]
+    }
+  },
+  {
+    "id": 139,
+    "title": "Baseball Glove",
+    "description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+    "price": 24.99,
+    "category": "Fitness",
+    "brand": "Forma Essentials",
+    "image": "/images/139.webp",
+    "rating": 3.96,
+    "stock": 22,
+    "variants": {
+      "model": ["Baseball Glove"]
+    }
+  },
+  {
+    "id": 140,
+    "title": "Basketball",
+    "description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+    "price": 14.99,
+    "category": "Fitness",
+    "brand": "Forma Essentials",
+    "image": "/images/140.webp",
+    "rating": 4.66,
+    "stock": 75,
+    "variants": {
+      "model": ["Basketball"]
+    }
+  },
+  {
+    "id": 141,
+    "title": "Basketball Rim",
+    "description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+    "price": 39.99,
+    "category": "Fitness",
+    "brand": "Forma Essentials",
+    "image": "/images/141.webp",
+    "rating": 4.6,
+    "stock": 43,
+    "variants": {
+      "model": ["Basketball Rim"]
+    }
+  },
+  {
+    "id": 142,
+    "title": "Cricket Ball",
+    "description": "The Cricket Ball is a hard leather ball used in the sport of cricket. It is bowled and batted in the game, and its hardness and seam contribute to the dynamics of cricket play.",
+    "price": 12.99,
+    "category": "Fitness",
+    "brand": "Forma Essentials",
+    "image": "/images/142.webp",
+    "rating": 3.53,
+    "stock": 30,
+    "variants": {
+      "model": ["Cricket Ball"]
+    }
+  }
+]
